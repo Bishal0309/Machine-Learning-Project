@@ -1,4 +1,5 @@
-Project Overview: Gold Prices Time Series Forecasting
+Project Overview: 
+Gold Prices Time Series Forecasting
 Introduction:
 This project aims to analyze historical gold prices data and build a forecasting model using time series analysis techniques. By leveraging machine learning algorithms, particularly linear regression, we seek to predict future gold prices based on historical trends.
 
